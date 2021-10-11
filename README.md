@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @yannbirnie
+- 👀 I’m interested in Fluid mechanics and CFD
+- 🌱 I’m currently learning wind energy
+- 💞️ I’m looking to collaborate on CFD projects
